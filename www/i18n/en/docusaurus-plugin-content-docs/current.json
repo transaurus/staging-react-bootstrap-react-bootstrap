@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.sidebar.category.Getting started": {
+    "message": "Getting started",
+    "description": "The label for category Getting started in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.Layout": {
+    "message": "Layout",
+    "description": "The label for category Layout in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.Forms": {
+    "message": "Forms",
+    "description": "The label for category Forms in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.Components": {
+    "message": "Components",
+    "description": "The label for category Components in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.Utilities": {
+    "message": "Utilities",
+    "description": "The label for category Utilities in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.migrating": {
+    "message": "migrating",
+    "description": "The label for category migrating in sidebar sidebar"
+  }
+}

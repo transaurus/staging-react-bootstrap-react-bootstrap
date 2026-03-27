@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "React Bootstrap",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "React Bootstrap Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Getting Started": {
+    "message": "Getting Started",
+    "description": "Navbar item with label Getting Started"
+  },
+  "item.label.Components": {
+    "message": "Components",
+    "description": "Navbar item with label Components"
+  },
+  "item.label.v3.0.0-beta.5 (Bootstrap 5)": {
+    "message": "v3.0.0-beta.5 (Bootstrap 5)",
+    "description": "Navbar item with label v3.0.0-beta.5 (Bootstrap 5)"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.v2.10.10 (Bootstrap 5)": {
+    "message": "v2.10.10 (Bootstrap 5)",
+    "description": "Navbar item with label v2.10.10 (Bootstrap 5)"
+  },
+  "item.label.v1.6.1 (Bootstrap 4)": {
+    "message": "v1.6.1 (Bootstrap 4)",
+    "description": "Navbar item with label v1.6.1 (Bootstrap 4)"
+  },
+  "item.label.v0.33.1 (Bootstrap 3)": {
+    "message": "v0.33.1 (Bootstrap 3)",
+    "description": "Navbar item with label v0.33.1 (Bootstrap 3)"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extends": "..",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": ["DOM", "ESNext"],
+    "moduleResolution": "bundler",
+    "module": "esnext",
+    "rootDir": ".."
+  },
+  "include": ["../src", ".", "../tests"]
+}

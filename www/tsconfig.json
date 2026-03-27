@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "lib": ["DOM"],
+    "moduleResolution": "Bundler",
+    "module": "ESNext",
+    "noEmit": true,
+    "types": [
+      "node",
+      "@docusaurus/module-type-aliases",
+      "@docusaurus/theme-classic"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@site/*": ["./*"],
+      "react-bootstrap/*": ["../src/*"]
+    },
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  },
+  "include": ["./src", "../src"]
+}
