@@ -1,0 +1,50 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label of footer link with label=Getting Started linking to /docs/getting-started/introduction"
+  },
+  "link.item.label.Layout": {
+    "message": "Layout",
+    "description": "The label of footer link with label=Layout linking to /docs/layout/breakpoints"
+  },
+  "link.item.label.Forms": {
+    "message": "Forms",
+    "description": "The label of footer link with label=Forms linking to /docs/forms/overview"
+  },
+  "link.item.label.Components": {
+    "message": "Components",
+    "description": "The label of footer link with label=Components linking to /docs/components/accordion"
+  },
+  "link.item.label.Utilities": {
+    "message": "Utilities",
+    "description": "The label of footer link with label=Utilities linking to /docs/utilities/transitions"
+  },
+  "link.item.label.Stack Overflow": {
+    "message": "Stack Overflow",
+    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/react-bootstrap"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/AKfs9vpvRW"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/react-bootstrap/react-bootstrap"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 React Bootstrap. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

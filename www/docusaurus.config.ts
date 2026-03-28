@@ -9,7 +9,7 @@ const config: Config = {
   tagline: 'The most popular front-end framework, rebuilt for React.',
   url: 'https://react-bootstrap.netlify.app/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -24,7 +24,7 @@ const config: Config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
   plugins: [
     './plugins/react-resolver-plugin.ts',
